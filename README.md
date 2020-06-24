@@ -12,7 +12,7 @@ Clone the repo
 
 `git clone https://github.com/ethereumclassic/explorer`
 
-Download [Nodejs and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
+Download [Nodejs <= v10.2.1 and npm](https://docs.npmjs.com/getting-started/installing-node "Nodejs install") if you don't have them
 
 Install dependencies:
 
